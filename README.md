@@ -4,8 +4,6 @@ www.wonderpass.me
 
 Ruby-on-rails | HTML | SASS | Javascript | PostGreSQL 
 
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
-
 **Overview**
 
 Wonderpass is an online digital stampbook enabling users to find and collect stamps from all around the UK and complete their stampbooks.
@@ -39,3 +37,5 @@ You can even build your own stampbooks and add new locations to your stamps!
 
 ![image](https://user-images.githubusercontent.com/66081334/125176750-f337d580-e1cd-11eb-940e-203409c382f7.png)
 ![image](https://user-images.githubusercontent.com/66081334/125176755-021e8800-e1ce-11eb-8110-bf713e2298a3.png)
+
+Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
